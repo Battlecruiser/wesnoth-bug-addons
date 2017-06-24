@@ -1,0 +1,295 @@
+I (The_Gnat) did the majority of the coding but all the image goes credit to the below: 
+(and if you see any good animations you can be sure i didn't create them)
+
+= Dwarves::
+- Arbalestier: 		War of Legends
+- Barrager:		The_Gnat
+- Annalist: 		The hammer of thursagan
+- Avalanche:		The Golden Age
+- Battlerager: 		Legend of the Invincibles
+- Rampager:	 	The Golden Age
+- Cave Runner:		The_Gnat
+- Hero: 		Legend of the Invincibles
+- Loremaster: 		The hammer of thursagan
+- Gryphon Lord:		The Golden Age
+- Gryphon Knight:	The_Gnat
+- Master Dragonguard : 	The hammer of thursagan
+- Regal: 		The Golden Age
+- Arch Thane:		SFault + modified slightly by The_Gnat
+- Iron Bear:		The Golden Age
+- Sage Futuristic:	Vyncyn (anims by The_Gnat)
+- Bear King:		The Golden Age
+- Rune Warrior:		Era of Magic
+- Rune Diviner:		Era of Magic (Rune Lord)
+- Metal Worker:		Era of Magic (Rune Master)
+- Smith Master:		Era of Magic (Rune Smith)
+
+= Elementals::
+- Air Avatar: 		Era of Magic
+- Boulder Mammoth: 	The_Gnat
+- Collosusotarous:	Ageless Era
+- Collosal Flare: 	The_Gnat
+- Inferno: 		Era of Magic (Fire God)
+- Ice Fang:		Era of Magic (Ice shell)
+- Ice Penatrator:	The_Gnat
+- Lava Behemoth: 	War of Legends
+- Lava Giant: 		War of Legends 
+- Monsterasorous:	Ageless Era
+- Naiad: 		The_Gnat
+- Nymph: 		War of Legends
+- Stone Titan: 		War of Legends
+- Vine Hulk: 		War of Legends
+- Vine Wreaker: 	The_Gnat
+- Whirlwind: 		Era of Magic (Air God)
+
+= Elves::
+- Arch Wose:		Uber Default
+- Avatar:		The Golden Age
+- Ancient Wose Shaman: 	thespaceinvader
+- Battle Druid:		The Golden Age (zealot)
+- Battle Enchantress:	The_Gnat
+- Deadeye:		The_Gnat
+- Field Master:		Legend of the Invincibles (warlord)
+- Legendary:		Legend of the Invincibles (juggernaut)
+- Gryphonier:		Grycian Era (Lancer)
+- Grand Master:		The Golden Age (overlord)
+- Infiltrator:		The Golden Age (Vanquisher)
+- Hierophant:		The Golden Age (avatar)
+- Halberdier:		The Golden Age
+- Millenial Wose:	The_Gnat
+- Mystic:		War of Legends (warden)
+- Prowler:		War of Legends (wayfarer)
+- Mounted Expidtionary:	The Golden Age (Horse bow)
+- Star:			Uber Default era / The_Gnat
+- Skymarshal:		Grycian Era (Knight)
+- Vanquisher:		Era of More Units (Admiral)
+- Vendicator:		Legend of the Invincibles (assassin)
+- Wayfarer:		War of Legends (prowler)
+
+= Loyalists::
+- Appocalypse Rider:	The_Gnat
+- Arcane Rider:		Legend of the Invincibles (Prophet)
+- Auxiliary Master:	The_Gnat
+- Crusader:		War of Legends
+- Decimation Trooper:	Legend of the Invincibles (Titanium Decimator)
+- Destroyer:		The Golden Age
+- Dragon Knight:	Legend of the Invincibles (Dragon Rider)
+- Elephant Catarphact:	The Golden Age / The_Gnat
+- Elite Sentinel:	Legend of the Invincibles (Swordmaster)
+- Epic Saber:		Legend of the Invincibles (Warlock)
+- Grand Master Bowman:	The_Gnat
+- Holy Arrow Master:	Legend of the Invincibles (Arrow Master)
+- Iron Mauler:		The_Gnat
+- Jouster:		The Golden Age (Lunatic Rider)
+- Phoenix Knight:	The_Gnat
+- Siege Trooper:	Default Wesnoth (Iron Mauler)
+- Scythe Master:	Legend of the Invincibles
+- Supreme Commander:	Uber_Default + The_Gnat (Duke)
+- Warden of Light:	The Golden Age
+- Warmaster:		War of Legends
+- Velite:		The Golden Age (Javelin Master)
+
+= Magi::
+- Celestial Messenger:	War of The Gods
+- Luminary of Fire:	Legend of the Invincibles[female]
+- Mage of Nature:	War of Legends
+- Mage of Glory:	The_Gnat
+- Mage of Lustre:	Aldarisvet (silver arch mage)
+- Prophet of Fire:	[female] War of Legends
+			[male] The_Gnat / The Golden Age (Golden Mage)
+- Sorcerer of Darkness:	Forest Dragon + ???
+- Shadow Wizard:	War of Legends (Sorcerer)
+- Wooland Enchanter:	War of Legends + The_Gnat
+
+
+
+(NOTE: everything i couldn't remember i credited to TGA if i was incorrect please post)
+
+=Orcs::
+- Nightblade:		The_Gnat
+- Ninja:		[mainline 1.13]
+- Conjurer:		[mainline 1.13]
+- Warlock:		The Golden Age
+- Huntsman:		*needs work
+- Predator:		The_Gnat *needs work
+- Emperor:		The_Gnat
+- Mogoul:		The Golden Age / The_Gnat / Forestdragon
+- Supreme: 		??
+- Strafer:		Legend of The Invincibles
+- Warmonger:		Legend of The Invincibles
+- Pikeman:		The_Gnat
+- Vanguard:		The_Gnat
+
+
+= Goblins::
+- Piercer:		The Golden Age (spearmaster)
+- Trumpeter:		The Golden Age
+- Warg Rider:		Legend of the Invincibles
+- Ravager:		Ageless Era?
+- Raider:		The_Gnat
+- Prime:		The Golden Age
+- Ravager:		The_Gnat
+- Polearm:		The Golden Age (warbanner)
+
+
+=Trolls::
+- Bombardier:		The_Gnat
+- Boulder lobber:	The_Gnat??
+- Gargantuan:		Carved in Stone
+- Giant:		The_Gnat
+- Magical:		Era of Magic (fire shaman)
+- Fire Lord:		Inferno8 (warlock)
+
+
+= Undead::
+- Abomination:		The Golden Age
+- Fallen:		Uber Default
+- Reaver:		Uber Default
+- Doom Bat:		The Golden Age
+- Master of Darkness:	Era of Magic
+- Abyss Rider:		Uber Default
+- Barrow Rider:		Uber Default
+- Death Charger:	[mainline]
+- Hellion:		The Golden Age
+- Hellstorm Invader:	The_Gnat
+- Arch Necromancer:	Legend of The Invincibles
+- Dread Lich:		War of Legends / anims The_Gnat
+- Eternal Lich:		The_Gnat
+- Prince of Darkness:	Legend of The Incibles (beezelbub)
+- Black Crusader:	The Golden Age
+- Bone Marauder:	Uber Default (bone pirate)
+- Death Lord:		The Golden Age (deathmarshal)
+- Doom Warden:		The_Gnat
+- Dread Hunter:		The Golden Age
+- Slither Blade:	The Golden Age
+- Wrath:		The Golden Age (deathlord)
+- Apparition:		The Golden Age
+- Phantom:		The Golden Age
+
+=Other::
+- Merman Admiral:	The_Gnat
+- Merman Retairius:	The_Gnat
+- Merman Praetor:	The Golden Age
+- Merman Spear Caster:	The_Gnat
+- Naga Centurion:	Mechanicle + ForestDragon + The_Gnat
+- Anicent Ogre:		The Golden Age [modified by The_Gnat removed spear]
+- Great Ogre:		The Golden Age
+- Armour Highwayman:	The Golden Age
+- Infiltrator:		Legend of The Invincibles (efriam) [modified by The_Gnat]
+- Revolutionary:	Legend of The Invincibles (Excecutioner) [modified by The_Gnat]
+- Forest Warden:	The_Gnat
+- Orion:		Legend of the Invincibles
+
+
+--------------------------------------------------------------
+
+= Weapon Specials
+- Trap:			The_Gnat
+- Ensnare:		The_Gnat
+- Speed Attack:		(Struggle) Legend of the Invincibles
+- Furocity:		(Circular) Lea + The_Gnat
+- No Counter Attack: 	Era of Magic
+- Trample:		War of the Gods
+- Ceaseless:		(Split Fire) War of the Gods
+- Grenade:		War of the Gods
+- Draining Aura:	(Spiked Armor) Abilites Era
+- Mind Raid:		(Raid) Abilities Era
+- Marksman Defense:	War of the Gods 
+- Mind Control:		(Choas)	Abilities Era (TODO)
+- Blood Lust:		Abilities Era
+- Loner:		Abilities Era (TODO)
+- Mountain Ambush:	War of the Gods
+- Water Ambush:		War of the Gods
+- On Death Become:	The_Gnat
+- Twilight Stalk:	?
+- Dead Zone:		Era of Magic (TODO)
+- Explosive:		(Cleave) Uber Default
+- others...		War of Legends (probably)
+
+----------------------------------------------------------
+
+Portraits:
+- Dwarvish Smith:		The Rise of Wesnoth (Burin)
+- Dwarvish Avalanche:		??
+- Dwarvish Hero:		Legend of Wesmere (Olurf)
+- Dwarvish Rager:		Sceptre of Fire (Durstorn)
+- Dwarvish Mountain King:	Hammer of Thursagen (Hamel)
+- Dwarvish Rune Diviner:	Hammer of Thursagen (Aiglondur)
+- Dwarvish Loremaster:		Hammer of Thursagen (Angarthing)
+- Dwarvish Arcanister:		Hammer of Thursagen (Karrag)
+- Dwarvish Warrior:		Wesnoth (Fighter-2 variant)
+- Dwarvish Valiant:		Sceptre of Fire (Balgur)
+- Dwarvish smith master:	??
+
+- Collosus:			Archaic Era (Khalkotaurus)
+- Monster:			Archiac Era (Ophis)
+- Lava:				Bonehead11
+- Fire-monster:			Bonehead11
+- Wave:				Rise of the Elementalist (Water Elemental)	
+- Flare:			Rise of the Elementalist (Fire Elemental)
+- Wind:				Rise of the Elementalist (Air Elemental)
+- Stone:			Monsters & Beasts Database: Stone Golem (World of Gothic) @ https://www.pinterest.com/kongaskreations/stone-golem/
+- Shaman (wose):		Mefisto @ http://forum.wesnoth.org/viewtopic.php?f=23&t=28796
+- Ancient (wose):		LordBob @ https://forums.wesnoth.org/viewtopic.php?f=9&p=589364
+- Mountain:			??
+
+- Prophetess of Fire (Fire):	The Golden Age (golden mage female)
+- Celestial Messenger:		Bag
+- Phoenix Knight:		Valkier
+- Warmaster:			Valkier
+- Decimator:			War of the Gods (bloodknight)
+- Destroyer:			War of the Gods (dark-knight)
+- Auxiliary:			The rise of wesnoth (addroran) + The Gnat (face editing) + Forest Dragon
+- Dragon:			War of the Gods (arkinas)
+- Grand Master Bowman:		Eastern Invasion (gweddry)
+- Horse Lancer (jouster):	??
+- Epic:				Legend of Wesmere (haldricII)
+- Guardian:			Legend of Wesmere (aldar) TOCHANGE
+- Royal:		
+- Lustre:		
+
+- Elvish Battle 1:		??
+- Mystic:			War of Legends (elf mystic)
+- Healer:			Chantal
+
+- Dread Lich			War of Legends
+
+- (Goblin) Ravager:		Archiac Era (orc-rider) #Need better portrait
+- Raider:			Archiac Era 
+- Wanderer:			Archiac Era
+
+
+NOTE: if anyone i have credited or not credited please tell me on the forum for the Reign of the Lords
+
+--------------------------------------------------------------
+
+CHANGELOG:
+
+(Version 1.2.4) - Fixed advancement problems in catarphact, forest warden, and merman retiarius. Added new portraits to a bunch of units. Added many new units and a new faction the outcasts, which consists of outlaws and swamp creatures.
+
+(Version 1.2.3) - Master Dragonguard no longer has fire as its ranged attack, Added elvish hierophant, troll fire wizard, modified elvish avatar's sprite, Slight mod to the Elvish Star's face, Changed the color of the ninja and renamed him to the nightblade, added the merman praetorian, merman admiral, merman raetarius, merman spear caster and renamed the nightblade to the ninja, Removed Ancient Ogres spear, Pilum Master renamed to Velite, King of the Mountain renamed to Regal, added Goblin Piercer, Goblin Trumpeter, Orion, Infiltrator, Forest Warden, Armoured Highwayman, Revolutionary, Naga Centurion, Elvish Gryphonier,Great and Ancient Ogres.  Added cave runner melee animations thanks to Forest Dragon. Added advancement of Jouster (Catarphact). Added advancement for white mage to mage of nature in multiplayer. The golden mage has been removed because of lack of uniqueness, the reaper has been removed temporarily because of a not good enough sprite. The skymarshal has been changed to have no bow and be in an alt advancement line as the mounted expiditionary. Renamed the Battleserker to the Rampager.
+
+(Version 1.2.2) - Added new units, Pilum Master, Goblin Prime, Goblin Polearm, Dwarvish Arch Thane, . Renamed the Dwarvish Mountain King to King under the Mountain. Fixed some bugs.
+
+(Version 1.2.1.3) - Updated Sage Futuristics sprite, fixed arcane riders attack anim, reduced the arch necromancer and prince of darkness' strength, buffed the destroy and decimation trooper, added the new javelin master. The crusader now advances to the pheonix knight and the warmaster has been removed
+
+(Version 1.2.1.2) - Solves a advancement problem in the multiplayer era
+
+(Version 1.2) - Yes the Undead Faction has now been released it includes the: Abomination, Fallen, Reaver, Horror, Phantom, Master Of Darkness, Abyss Rider, Death Charger, Barrow Rider, Hellion, Hellstorm Invader, Arch Necromancer, Prince of Darkness, Black Crusader, Bone Maurader, Death Lord, Eternal Lich, Doom Warden, Dread Hunter, Slither Blade, Wrath! Many bug fixes have been made. The elven vanquisher sprite has been changed to be more green thanks to era of more units. The Orcish Emperor has been renamed the Supreme and the Supreme has been renamed the Emperor. A new unit for the Orcs has also been added the Warlock a advancement of the Conjurer. Also the Revenant advancement has been fixed. The elvish star sprite has been changed. The ensnare weapon special has been fixed. The Afterburn weapon special has been fixed. The relentless weapon special has been fixed. The Ice Fang and Ice Penertrator have been added to the Elemental faction. The Silver Mage now advances to the Golden Mage and the Mage of Lustre. Portraits for some units have been correctly resized. The code has been cleaned up some. A new portrait has been made for the elvish infiltrator and all the undead have been given portraits.
+
+(Version 1.1.6) - This Newest Release attempts to balance the Dwarves,Orcs, and Loyalists. (Thanks to IPS for help invalueble advice) Main changes include: Dwarvish Barrager - new explosive crossbow, Orcish Huntsman, Predator - nightstalk ability, Orcish Pikeman, Vanguard - removed Precision reduced range, Precision attack reduced. Siege Trooper line increased resistances. Gryphon knight has a new attack icon. Unforetunately afterburn special still not working.
+
+(Version 1.1.5) - Mind Raid Weapon special fixed, Made holy arrow master more holy, gave dwarvish mountain king bigger shield, reduced elvish battle enchantress and druids attacks, jouster has a better face, goblin ravager bigger body, battle rager bigger hair, battle sorceress looks way cooler, battle druid looks more like upgrade, orcish emporer has lead anim, dwarvish sage has ranged anim, goblin raider has ranged anim, a bunch of thanks to Forest Dragon for changes and a modified sorcerer of darkness, and more anims for the dwarvish explorer, orcish assassinator removed - ninja now advances to nightstalker
+
+(Version 1.1.4) - Changed Rune Warrior sprite's sword, fixed water ambush on castles, added dwarvish blacksmith line to have leadership, reduced lava giant attack, changed Mage of Lustres sprite, renamed vanquisher to shifter, created new unit called vanquisher, fix the multiplayer advancement event problems, created a bunch of new units: Supreme Commander, Luminary of Fire, Orcish Emporer, Dwarvish Barrager, Dwarvish Cave Runner, Dwarvish Sage Futuristic, Elvish Mounted Expiditionary, Elvish Shifter, The Arch Wose, the Dwarvish Smith Master, The Millenial Wose, Auxiliary Master, and a troll even bigger than the Troll Giant... the Troll Gargantuan!
+
+(Version 1.1.3) - To all the people who just downloaded version 1.1.2 and are tired of downloading new versions: sorry about the errors in version 1.1.2 i have solved most of them in this newest version and fixed a bunch of the ability and weapon specials which were having problems. The magi and elementals teams recruitment pattern was also fixed. (and added new units Rune Diviner,Rune Warrior, and Auxiliary Master)
+
+(Version 1.1.2) - Some more units and a few bug fixes and also i fixed a experience problem with Multiplayer advancement modification (Added units: Elvish Avatar,Pheonix knight,Elvish Vanquisher,Mage of Lustre,Mage of Glory,Orcish High Mogoul,Elvish Star,Goblin Marauder,Woodland Beast,Naiad,Dwarvish Iron Bear,Dwarvish Armageddon,Orcish Vanguard,)
+If you have any suggestions or ideas please post any comments on the wesnoth forum about this newest version of the 5 Lords Reign faction.
+
+(Version 1.1.1) - I've tried balancing the factions more in the newest version, also a modification button in the multiplayer menu has been added to turn on and off the base wesnoth units advancing to these Lords, i've added and removed a few units and changed some of the code to fix it in the wesnoth unit database. (removed units: faerie spirit,catarphact,custodian,troll warlord,mage of storms,djinn - these units have been removed b/c a few were overly repetitive, some didn't have good pictures, some were unbalanced, and some didn't fit) (Added units: Elvish Avatar,Pheonix knight,Elvish deadeye,Elvish Vanquisher,Elvish Star,Arch Wose,Troll Giant)
+
+(Version 1.1.0) - This new version is entirely independent of the base wesnoth and so does not mess up the normal unit upgrades. But i have made another mod 5  Lords Default Unit Advancements, which allows you to upgrade from the base units to all of these super awesome new ones. also got some more portraits, added a few new units, fixed a bunch of problems
+
+(Version 1.0.3) - Sorry about the bugs in version 1.0.0 i've fixed them now, also added some new units, updated the images on some units, and added portraits for a bunch of them (thats why this version is a bit bigger then the last)
